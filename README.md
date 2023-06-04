@@ -1,2 +1,2 @@
 # aluraplus
-Site da Aluraplus, onde realizei a criação participando dos cursos disponíveis.
+Site da Aluraplus, onde realizei a criação participando do s cursos oferecidos.
